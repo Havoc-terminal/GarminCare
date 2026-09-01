@@ -1,4 +1,8 @@
-// GraminCare Real-Time Multi-Device Sync & Live Video Relay Server
+/**
+ * GraminCare Real-Time Multi-Device Sync & Live Video Relay Server
+ * 
+ * Designed and Developed by Team Bugbusters
+ */
 import http from 'http';
 import { 
   INITIAL_PATIENTS, 
